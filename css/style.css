@@ -104,6 +104,14 @@ section {
   background: deepskyblue;
 }
 
+.navbar .active {
+  background: deepskyblue;
+}
+
+.navbar .active i {
+  color: #fff;
+}
+
 .navbar a:hover i {
   color: #fff;
 }
